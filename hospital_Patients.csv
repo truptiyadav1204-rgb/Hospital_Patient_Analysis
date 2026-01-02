@@ -1,0 +1,13 @@
+Patient_Name,Age,Gender,Disease,Department,Bill_Amount,Rating,Admission_Date
+Amit Sharma,45,Male,Heart,Cardiology,75000,4.5,2025-01-10
+Pooja Patil,30,Female,Fever,General,5000,4.0,2025-01-15
+Rahul Verma,60,Male,Diabetes,Endocrinology,40000,4.2,2025-02-05
+Sneha Kulkarni,25,Female,Infection,General,8000,3.8,2025-02-18
+Rohit Singh,50,Male,Orthopedic,Orthopedic,60000,4.6,2025-03-02
+Neha Joshi,35,Female,Fever,General,7000,4.1,2025-03-12
+Karan Mehta,40,Male,Heart,Cardiology,90000,4.7,2025-04-08
+Anita Deshmukh,55,Female,Diabetes,Endocrinology,45000,4.3,2025-04-20
+Suresh Rao,65,Male,Heart,Cardiology,85000,4.8,2025-05-05
+Priya Nair,28,Female,Infection,General,9000,3.9,2025-05-18
+Vikas Gupta,48,Male,Orthopedic,Orthopedic,65000,4.5,2025-06-01
+Meena Iyer,33,Female,Fever,General,6000,4.0,2025-06-15
